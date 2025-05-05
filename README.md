@@ -1,16 +1,11 @@
-## Hi there 👋
+🇵🇱 PL:
+🎓 Studiuję Informatykę i Ekonometrię na Uniwersytecie Gdańskim.
+💻 Interesuję się programowaniem, analizą danych i technologiami IT.
+🚀 Jestem ambitny, lubię się rozwijać i uczyć nowych rzeczy.
+📂 Na GitHubie dzielę się swoimi projektami i postępami w nauce.
 
-
-**kacperjaskolski/kacperjaskolski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+🇬🇧 EN:
+🎓 I'm studying Computer Science and Econometrics at the University of Gdańsk.
+💻 I'm interested in programming, data analysis, and IT technologies.
+🚀 I'm ambitious, eager to grow, and always open to learning new things.
+📂 I use GitHub to share my projects and learning progress.
